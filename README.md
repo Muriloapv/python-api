@@ -9,3 +9,6 @@ docker-compose restart
 
 Para mostrar os containers que estão rodando, status dele etc
 docker ps
+
+
+http://localhost:8000/montar-imagem/
