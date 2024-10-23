@@ -1,8 +1,9 @@
-#para nao precisar ficar baixando todas ap dp, eu crio esse arquivo que faz o dowload automatico 
-
 fastapi==0.95.1
 uvicorn==0.18.2
+pillow==9.3.0  # Biblioteca para manipulação de imagens
+requests==2.28.1  # Biblioteca para requisições HTTP
 motor==3.6.0
 python-jose==3.3.0
 passlib[bcrypt]==1.7.4
 pydantic==1.10.7
+python-multipart                                                                                                                                   

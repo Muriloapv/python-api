@@ -11,11 +11,10 @@ COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 
 # Copie o restante do código da aplicação
-COPY . .
+COPY app ./app
 
 # Exponha a porta 8000 para a aplicação FastAPI
 EXPOSE 8000
 
 # Comando para rodar o servidor FastAPI com Uvicorn
 CMD ["uvicorn", "app.main:app", "--host", "0.0.0.0", "--port", "8000"]
-#porta   mongodb://localhost:27017/

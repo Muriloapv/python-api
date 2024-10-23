@@ -7,5 +7,5 @@ docker-compose down
 Para reiniciar: 
 docker-compose restart
 
-Para ter o endereco do docker: 
+Para mostrar os containers que estão rodando, status dele etc
 docker ps
