@@ -1,0 +1,34 @@
+Departamentos com funcionários alocados e verificação de lotação:
+Departamento: Planejamento, Funcionários Alocados: 0, Lotado: True
+Departamento: Vendas Internacionais, Funcionários Alocados: 0, Lotado: True
+Departamento: Engenharia, Funcionários Alocados: 0, Lotado: True
+Departamento: Compliance, Funcionários Alocados: 0, Lotado: True
+Departamento: Legal, Funcionários Alocados: 0, Lotado: True
+Departamento: OperaÃ§Ãµes, Funcionários Alocados: 0, Lotado: True
+Departamento: Infraestrutura, Funcionários Alocados: 0, Lotado: True
+Departamento: Qualidade, Funcionários Alocados: 0, Lotado: True
+Departamento: Suporte, Funcionários Alocados: 0, Lotado: True
+Departamento: TI, Funcionários Alocados: 12, Lotado: True
+Departamento: Vendas, Funcionários Alocados: 7, Lotado: True
+Departamento: Financeiro, Funcionários Alocados: 15, Lotado: True
+Departamento: Recursos Humanos, Funcionários Alocados: 9, Lotado: True
+Departamento: Marketing, Funcionários Alocados: 6, Lotado: True
+Departamento: Desenvolvimento, Funcionários Alocados: 15, Lotado: True
+
+Funcionários em departamentos que não estão lotados:
+Departamento: Planejamento, Funcionários: []
+Departamento: Vendas Internacionais, Funcionários: []
+Departamento: Engenharia, Funcionários: []
+Departamento: Compliance, Funcionários: []
+Departamento: Legal, Funcionários: []
+Departamento: OperaÃ§Ãµes, Funcionários: []
+Departamento: Infraestrutura, Funcionários: []
+Departamento: Qualidade, Funcionários: []
+Departamento: Suporte, Funcionários: []
+Departamento: TI, Funcionários: ['Oscar', 'Tina', 'Luis', 'Zach', 'William', 'Elena', 'Xander', 'Helena', 'Kevin', 'Ian', 'Queen', 'Carlos']
+Departamento: Vendas, Funcionários: ['Nick', 'Ursula', 'Xander', 'Frank', 'Michael', 'Quentin', 'David']
+Departamento: Financeiro, Funcionários: ['Oscar', 'Maria', 'Hannah', 'Fernando', 'Richard', 'Anita', 'Ximena', 'Paula', 'Kevin', 'Gabriela', 'Evelyn', 'Uma', 'Sonia', 'Jill', 'Brian']
+Departamento: Recursos Humanos, Funcionários: ['Kara', 'Bob', 'Michael', 'Gabriela', 'James', 'Rachel', 'Tom', 'Wendy', 'Carlos']
+Departamento: Marketing, Funcionários: ['Paul', 'Alice', 'Isaac', 'Laura', 'Carlos', 'Simon']
+Departamento: Desenvolvimento, Funcionários: ['Zoe', 'Kara', 'Luis', 'Alice', 'Fernando', 'Yara', 'Victor', 'Cathy', 'Sonia', 'Diana', 'Rachel', 'Nina', 'Vera', 'Olivia', 'George']
+PS C:\Users\usuario\Desktop\Facul\6 semestre eng de software\PARADIGMAS DE LINGUAGENS DE PROGRAMAÇÃO\avaliacaoDia2> 
